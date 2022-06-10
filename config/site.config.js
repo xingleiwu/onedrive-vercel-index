@@ -11,10 +11,10 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: '/icons/128.png',
+  icon: '/icons/666.png',
 
   // The name of your website. Present alongside your icon.
-  title: "转圈圈",
+  title: "Elysium",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/wodedd',
@@ -35,7 +35,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="Why do you have to sleep for a long time in life, you must sleep for a long time after death" target="_blank" rel="noopener noreferrer">高峰会上如果</a>. Made with ❤ by Steve.',
+    'Powered by <a href="https://miao-lgudmlqp1-xingleiwu.vercel.app/zh-CN/" target="_blank" rel="noopener noreferrer">Why do you have to sleep for a long time in life</a>.  you must sleep for a long time after death ❤ by Steve.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
