@@ -42,12 +42,12 @@ module.exports = {
   protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:zxfccmm@gmail.com',
+//   email: 'mailto:zxfccmm@gmail.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
-  links: [
+//   links: [
 //     {
 //       name: 'GitHub',
 //       link: 'https://github.com/zxfccmm4/onedrive-vercel-index',
@@ -56,11 +56,11 @@ module.exports = {
 //       name: 'Telegram',
 //       link: 'https://t.me/+kf7ewH-conM5MDRl',
 //     },
-        {
-      name: 'twitter',
-      link: 'https://twitter.com/sevenccmm',
-    },
-  ],
+//         {
+//       name: 'twitter',
+//       link: 'https://twitter.com/sevenccmm',
+//     },
+//   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
